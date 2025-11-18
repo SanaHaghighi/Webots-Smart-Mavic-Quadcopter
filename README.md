@@ -7,7 +7,10 @@ This project simulates a **Mavic-style quadcopter** in **Webots R2023b**, design
 The drone detects its target, adjusts its flight path, and activates its front LEDs upon successful identification.
 
 📸 **Example placeholder**  
-<img width="925" height="800" alt="image" src="https://github.com/user-attachments/assets/1afabf7e-bbc4-4ad0-8a21-e145527c6f4b" />
+<img width="650" height="560" alt="image" src="https://github.com/user-attachments/assets/1afabf7e-bbc4-4ad0-8a21-e145527c6f4b" />
+
+📸 **Example placeholder**  
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/1afabf7e-bbc4-4ad0-8a21-e145527c6f4b" />
 
 
 ---
@@ -117,5 +120,6 @@ Developed by **Sana Haghighi** and team (2023–2024).
 Guidance: Mavic Quadcopter Object Detection using CNN — Webots Simulation Environment.  
 
 ---
+
 
 
