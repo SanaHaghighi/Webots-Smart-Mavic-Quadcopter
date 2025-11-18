@@ -46,8 +46,8 @@ Then load the simulation environment:
 We designed a controller to manage drone flight across multiple boxes labeled with MNIST images.  
 For each run, the drone receives a **target label** (specific clothing item). It then captures images while hovering above boxes to classify them.
 
-> 📷 
-> Example placeholder:
+> 📷 Example placeholder:
+
 > <img width="402" height="369" alt="image" src="https://github.com/user-attachments/assets/37843199-c9b4-4e73-b27e-2fe35c254340" />
 
 
@@ -118,6 +118,7 @@ Developed by **Sana Haghighi** and team (2023–2024).
 Guidance: Mavic Quadcopter Object Detection using CNN — Webots Simulation Environment.  
 
 ---
+
 
 
 
