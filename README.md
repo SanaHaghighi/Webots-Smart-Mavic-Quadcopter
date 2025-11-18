@@ -28,3 +28,8 @@ The drone detects its target, adjusts its flight path, and activates its front L
 
 ├── videos/ → Simulation recordings and demo outputs
 
+---
+
+## ⚙️ Prerequisites
+
+To successfully run the project, you need to install:
