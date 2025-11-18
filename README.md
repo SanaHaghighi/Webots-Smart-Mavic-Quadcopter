@@ -1,4 +1,3 @@
-﻿# Webots-Smart-Mavic-Quadcopter
 # Smart Mavic Quadcopter – Object Detection in Webots
 
 ## Overview
@@ -43,4 +42,5 @@ Include video link + short summary (accuracy or sample outcomes).
 
 ## Credits
 Developed by Sana Haghighi & team (2024) – MIT License
+
 
