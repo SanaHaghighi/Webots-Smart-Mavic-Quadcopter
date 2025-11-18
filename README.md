@@ -95,6 +95,10 @@ This improved clarity allowed the model to **correctly predict labels**.
 https://github.com/SanaHaghighi/Webots-Smart-Mavic-Quadcopter/blob/main/videos/controller_test.mp4
 https://github.com/SanaHaghighi/Webots-Smart-Mavic-Quadcopter/blob/main/videos/controller_test.mov
 
+## 🎥 Final Result
+👇
+
+<video src="https://github.com/SanaHaghighi/Webots-Smart-Mavic-Quadcopter/blob/main/videos/controller_test.mov" controls width="600"></video>
 
 The final simulation demonstrates successful navigation, detection, and LED signaling when the correct item is identified.
 
@@ -140,6 +144,7 @@ For more details, discussions, or collaboration:
 🔗 [GitHub Profile](https://github.com/SanaHaghighi)
 
 ---
+
 
 
 
