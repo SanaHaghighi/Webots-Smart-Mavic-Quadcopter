@@ -8,11 +8,8 @@ The drone detects its target, adjusts its flight path, and activates its front L
 
 📸 **Examples**  
 
-<div style="display: flex; overflow-x: auto; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/1afabf7e-bbc4-4ad0-8a21-e145527c6f4b" width="300" />
-  <img src="https://github.com/user-attachments/assets/2aabf8f0-xyz0-4a92-a2dd-123456789abc" width="300" />
-  <img src="https://github.com/user-attachments/assets/3d7e2f2b-xyz0-4abc-7890-987654321def" width="300" />
-</div>
+📸 **Example placeholder**  
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/1afabf7e-bbc4-4ad0-8a21-e145527c6f4b" />
 
 
 ---
@@ -52,7 +49,7 @@ We designed a controller to manage drone flight across multiple boxes labeled wi
 For each run, the drone receives a **target label** (specific clothing item). It then captures images while hovering above boxes to classify them.
 
 > 📷 
-> Example placeholder: <img width="802" height="769" alt="image" src="https://github.com/user-attachments/assets/37843199-c9b4-4e73-b27e-2fe35c254340" />
+> Example placeholder: <img width="602" height="569" alt="image" src="https://github.com/user-attachments/assets/37843199-c9b4-4e73-b27e-2fe35c254340" />
 
 
 If the CNN output matches the target label, the drone lands next to the correct box and activates its LED lights.  
@@ -122,6 +119,7 @@ Developed by **Sana Haghighi** and team (2023–2024).
 Guidance: Mavic Quadcopter Object Detection using CNN — Webots Simulation Environment.  
 
 ---
+
 
 
 
