@@ -89,9 +89,9 @@ This improved clarity allowed the model to **correctly predict labels**.
 
 ## 🎬 Final Result
 
-> 🎥 *Upload your simulation video here.*  
-> (Example placeholder:  
-> ``)
+> 🎥
+![Controller Test Preview](videos/controller_test.gif)  
+[▶ Watch Full Video](videos/controller_test.mp4)
 
 The final simulation demonstrates successful navigation, detection, and LED signaling when the correct item is identified.
 
@@ -125,10 +125,9 @@ This project is licensed under the **MIT License**. See `LICENSE` file for detai
 
 ## 👩‍💻 Authors & Credits
 
-Developed by **Sana Haghighi** and team (2024–2025).  
+Developed by **Sana Haghighi** and team (2023–2024).  
 Guidance: Mavic Quadcopter Object Detection using CNN — Webots Simulation Environment.  
 
-> 💫 *If part of an academic paper or presentation, add citation details here.*
 
 ---
 
@@ -138,4 +137,5 @@ For more details, discussions, or collaboration:
 🔗 [GitHub Profile](https://github.com/SanaHaghighi)
 
 ---
+
 
