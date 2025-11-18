@@ -47,7 +47,8 @@ We designed a controller to manage drone flight across multiple boxes labeled wi
 For each run, the drone receives a **target label** (specific clothing item). It then captures images while hovering above boxes to classify them.
 
 > 📷 
-> Example placeholder: <img width="402" height="369" alt="image" src="https://github.com/user-attachments/assets/37843199-c9b4-4e73-b27e-2fe35c254340" />
+> Example placeholder:
+> <img width="402" height="369" alt="image" src="https://github.com/user-attachments/assets/37843199-c9b4-4e73-b27e-2fe35c254340" />
 
 
 If the CNN output matches the target label, the drone lands next to the correct box and activates its LED lights.  
@@ -117,6 +118,7 @@ Developed by **Sana Haghighi** and team (2023–2024).
 Guidance: Mavic Quadcopter Object Detection using CNN — Webots Simulation Environment.  
 
 ---
+
 
 
 
