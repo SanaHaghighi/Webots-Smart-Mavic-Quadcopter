@@ -1,7 +1,5 @@
 # Webots Smart Mavic Quadcopter  
 **Guidance of a Quadcopter for Object Detection**
-![Drone Demo](https://github.com/SanaHaghighi/Webots-Smart-Mavic-Quadcopter/raw/main/videos/controller_test.gif)
-
 ---
 
 ## 🛰️ Overview
@@ -93,9 +91,6 @@ This improved clarity allowed the model to **correctly predict labels**.
 > 🎥
 ![Controller Test Preview](videos/controller_test.gif)  
 
-https://github.com/SanaHaghighi/Webots-Smart-Mavic-Quadcopter/blob/main/videos/controller_test.mp4
-https://github.com/SanaHaghighi/Webots-Smart-Mavic-Quadcopter/blob/main/videos/controller_test.mov
-
 ![Drone Demo](https://github.com/SanaHaghighi/Webots-Smart-Mavic-Quadcopter/raw/main/videos/controller_test.gif)
 
 The final simulation demonstrates successful navigation, detection, and LED signaling when the correct item is identified.
@@ -142,6 +137,7 @@ For more details, discussions, or collaboration:
 🔗 [GitHub Profile](https://github.com/SanaHaghighi)
 
 ---
+
 
 
 
