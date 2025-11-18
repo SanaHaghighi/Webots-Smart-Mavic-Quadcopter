@@ -9,10 +9,11 @@ This project simulates a **Mavic-style quadcopter** in **Webots R2023b**, design
 The drone detects its target, adjusts its flight path, and activates its front LEDs upon successful identification.
 
 > 📸 *Here you will upload the main environment screenshot.*  
-> (Example placeholder: `![Environment View](![Uploading image.png…]()
-)`)
+> (Example placeholder:<img width="1110" height="606" alt="image" src="https://github.com/user-attachments/assets/5431b1bc-299c-4cd5-a78b-e30131b9b3b2" />
+)
 
 ---
 
 ## 🧱 Repository Structure
+
 
