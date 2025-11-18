@@ -96,7 +96,8 @@ https://github.com/SanaHaghighi/Webots-Smart-Mavic-Quadcopter/blob/main/videos/c
 https://github.com/SanaHaghighi/Webots-Smart-Mavic-Quadcopter/blob/main/videos/controller_test.mov
 
 ??
-<video src="https://github.com/SanaHaghighi/Webots-Smart-Mavic-Quadcopter/blob/main/videos/controller_test.mov" controls width="600"></video>
+
+<video src="https://github.com/SanaHaghighi/Webots-Smart-Mavic-Quadcopter/raw/main/videos/controller_test.mov" controls width="600"></video>
 
 The final simulation demonstrates successful navigation, detection, and LED signaling when the correct item is identified.
 
@@ -142,6 +143,7 @@ For more details, discussions, or collaboration:
 🔗 [GitHub Profile](https://github.com/SanaHaghighi)
 
 ---
+
 
 
 
