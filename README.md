@@ -6,9 +6,8 @@
 This project simulates a **Mavic-style quadcopter** in **Webots R2023b**, designed to navigate over labeled boxes and identify objects using a **Convolutional Neural Network (CNN)** based on the **MNIST Fashion dataset**.  
 The drone detects its target, adjusts its flight path, and activates its front LEDs upon successful identification.
 
-> 📸
-> Example placeholder: <img width="925" height="800" alt="image" src="https://github.com/user-attachments/assets/1afabf7e-bbc4-4ad0-8a21-e145527c6f4b" />
-
+📸 **Example placeholder**  
+<img width="925" height="800" alt="image" src="https://github.com/user-attachments/assets/1afabf7e-bbc4-4ad0-8a21-e145527c6f4b" />
 
 
 ---
@@ -31,20 +30,14 @@ The drone detects its target, adjusts its flight path, and activates its front L
 
 ## ⚙️ Prerequisites
 
-To successfully run the project, you need to install:
-
-Webots R2023b
-
-Keras
-
-OpenCV (cv2)
-
-PIL
+To successfully run the project, make sure you have:
+- Webots R2023b  
+- Keras  
+- OpenCV (cv2)  
+- Pillow (PIL)
 
 Then load the simulation environment:
-
-mavic_2_pro.wbt
-
+`mavic_2_pro.wbt`
 
 ---
 
@@ -71,9 +64,6 @@ We implemented the controller by testing different values for:
 
 Once optimized through trial and error, the controller achieved steady flight and accurate capture.  
 For details, refer to Webots documentation on **quadcopter control and command APIs**.
-
-> 🖥️
-> (Example placeholder: )
 
 ---
 
@@ -126,31 +116,6 @@ This project is licensed under the **MIT License**. See `LICENSE` file for detai
 Developed by **Sana Haghighi** and team (2023–2024).  
 Guidance: Mavic Quadcopter Object Detection using CNN — Webots Simulation Environment.  
 
-
 ---
-
-## 💬 Contact  
-For more details, discussions, or collaboration:  
-📧 `sanahaghighi@github.com`  
-🔗 [GitHub Profile](https://github.com/SanaHaghighi)
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
