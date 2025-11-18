@@ -9,7 +9,8 @@ This project simulates a **Mavic-style quadcopter** in **Webots R2023b**, design
 The drone detects its target, adjusts its flight path, and activates its front LEDs upon successful identification.
 
 > 📸
-> Example placeholder:<img width="1110" height="606" alt="image" src="https://github.com/user-attachments/assets/5431b1bc-299c-4cd5-a78b-e30131b9b3b2" />
+> Example placeholder: <img width="925" height="800" alt="image" src="https://github.com/user-attachments/assets/1afabf7e-bbc4-4ad0-8a21-e145527c6f4b" />
+
 
 
 ---
@@ -54,8 +55,9 @@ mavic_2_pro.wbt
 We designed a controller to manage drone flight across multiple boxes labeled with MNIST images.  
 For each run, the drone receives a **target label** (specific clothing item). It then captures images while hovering above boxes to classify them.
 
-> 📷 *Upload the drone flight environment screenshot here.*  
-> (Example placeholder: `![Flight Environment](INSERT_IMAGE_LINK_HERE)`)
+> 📷 
+> Example placeholder: <img width="802" height="769" alt="image" src="https://github.com/user-attachments/assets/37843199-c9b4-4e73-b27e-2fe35c254340" />
+
 
 If the CNN output matches the target label, the drone lands next to the correct box and activates its LED lights.  
 If not, it continues searching other boxes until the match is found.
@@ -72,8 +74,8 @@ We implemented the controller by testing different values for:
 Once optimized through trial and error, the controller achieved steady flight and accurate capture.  
 For details, refer to Webots documentation on **quadcopter control and command APIs**.
 
-> 🖥️ *Upload a short clip or image showing controller operation here.*  
-> (Example placeholder: `![Controller Test](INSERT_IMAGE_LINK_HERE)`)
+> 🖥️
+> (Example placeholder: )
 
 ---
 
@@ -83,16 +85,13 @@ Since the **MNIST Fashion dataset** includes low-resolution grayscale images, se
 Edges were enhanced and contrast increased—correcting misclassifications (e.g. confusing bags with boots).  
 This improved clarity allowed the model to **correctly predict labels**.
 
-> 🧩 *Upload an image of CNN layers or confusion matrix here (optional).*  
-> (Example placeholder: `![CNN Visualization](INSERT_IMAGE_LINK_HERE)`)
-
 ---
 
 ## 🎬 Final Result
 
 > 🎥 *Upload your simulation video here.*  
 > (Example placeholder:  
-> `[▶ Watch Quadcopter Object Detection Demo](INSERT_VIDEO_LINK_OR_PATH_HERE)`)
+> ``)
 
 The final simulation demonstrates successful navigation, detection, and LED signaling when the correct item is identified.
 
@@ -139,3 +138,4 @@ For more details, discussions, or collaboration:
 🔗 [GitHub Profile](https://github.com/SanaHaghighi)
 
 ---
+
