@@ -1,46 +1,17 @@
-# Smart Mavic Quadcopter – Object Detection in Webots
-
-## Overview
-Simulation of a Mavic-style quadcopter using Webots R2023b. The drone navigates a set of boxes labeled with MNIST fashion items, detecting its target using a CNN model and LED-based feedback.
+# Webots Smart Mavic Quadcopter  
+**Guidance of a Quadcopter for Object Detection**
 
 ---
 
-## Repository Structure
-- /controllers → main flight and camera control scripts
-- /cnn → CNN model for object detection
-- /datasets → MNIST fashion dataset preprocessing
-- /images → captured frames and visual samples
-- /model → Webots environment and .wbt world file
+## 🛰️ Overview
+
+This project simulates a **Mavic-style quadcopter** in **Webots R2023b**, designed to navigate over labeled boxes and identify objects using a **Convolutional Neural Network (CNN)** based on the **MNIST Fashion dataset**.  
+The drone detects its target, adjusts its flight path, and activates its front LEDs upon successful identification.
+
+> 📸 <img width="1358" height="822" alt="image" src="https://github.com/user-attachments/assets/efb54339-e62c-496d-9a0a-95a4e5bbd8a7" />
+  
+> (Example placeholder: `![Environment View](INSERT_IMAGE_LINK_HERE)`)
 
 ---
 
-## Prerequisites
-Webots R2023b, Keras, OpenCV (cv2), PIL  
-Load `mavic_2_pro.wbt` in Webots before running controllers.
-
----
-
-## Implementation
-Brief summary + pictures …  
-
----
-
-## Controller
-Explain tuning, flight angles, LEDs behavior …
-
----
-
-## CNN
-Explain preprocessing and performance metrics …
-
----
-
-## Results
-Include video link + short summary (accuracy or sample outcomes).
-
----
-
-## Credits
-Developed by Sana Haghighi & team (2024) – MIT License
-
-
+## 🧱 Repository Structure
