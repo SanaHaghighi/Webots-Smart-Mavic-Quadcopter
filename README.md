@@ -31,7 +31,7 @@ The drone detects its target, adjusts its flight path, and activates its front L
 ## ⚙️ Prerequisites
 
 To successfully run the project, make sure you have:
-- Webots R2023b  
+```- Webots R2023b```
 - Keras  
 - OpenCV (cv2)  
 - Pillow (PIL)
@@ -117,6 +117,7 @@ Developed by **Sana Haghighi** and team (2023–2024).
 Guidance: Mavic Quadcopter Object Detection using CNN — Webots Simulation Environment.  
 
 ---
+
 
 
 
