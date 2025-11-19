@@ -109,17 +109,13 @@ The final simulation demonstrates successful navigation, detection, and LED sign
 
 ---
 
-## 📄 License
-This project is licensed under the **MIT License**. See `LICENSE` file for details.
-
----
-
 ## 👩‍💻 Authors & Credits
 
 Developed by **Sana Haghighi** and team (2023–2024).  
 Guidance: Mavic Quadcopter Object Detection using CNN — Webots Simulation Environment.  
 
 ---
+
 
 
 
