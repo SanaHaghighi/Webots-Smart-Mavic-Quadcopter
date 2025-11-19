@@ -38,10 +38,10 @@ keras
 cv2
 PIL
 ```
-
-Then load the simulation environment:
+And to load the environment, you need to open .wbt file in Webots:
+```bash
 `mavic_2_pro.wbt`
-
+```
 ---
 
 ## 🚀 Implementation
@@ -120,6 +120,7 @@ Developed by **Sana Haghighi** and team (2023–2024).
 Guidance: Mavic Quadcopter Object Detection using CNN — Webots Simulation Environment.  
 
 ---
+
 
 
 
